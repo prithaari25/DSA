@@ -1,0 +1,7 @@
+Cpp:
+g++ Q1.cpp -o Q1
+./Q1
+
+
+Python:
+python Q1.py

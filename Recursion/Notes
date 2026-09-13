@@ -1,0 +1,7 @@
+Run in Terminal :
+g++ test.cpp -o test
+./test
+
+Or 
+
+g++ test1.cpp -o test1 && ./test1.exe
