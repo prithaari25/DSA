@@ -27,4 +27,4 @@ def min_operations(s):
 
 
 s = input("Enter the string: ")
-print("Minimum operations:", min_operations(s))
+print("Minimum operations: ", min_operations(s))

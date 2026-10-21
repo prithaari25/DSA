@@ -21,7 +21,7 @@ int minOperations(string s) {
     if (isSorted) return 0;
     if (n == 2) return -1;
 
-    if (s.front() == mn || s.back() == mx)          //if (s[0] == mn || s[n - 1] == mx) return 1;
+    if (s.front() == mn || s.back() == mx)         //if (s[0] == mn || s[n - 1] == mx) return 1;
         return 1;
 
     for (int i = 1; i < n - 1; i++) {
